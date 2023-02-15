@@ -2,7 +2,7 @@
 
 Piggy bank opening:
 
-![opening](/gifs/opening.gif)
+![opening](/gifs/opening1.gif)
 
 
 Picking rare items:
