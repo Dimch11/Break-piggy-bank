@@ -4,4 +4,4 @@
 
 1
 
-![rare_items](/gifs/rare_items .gif)
+![rare_items](/gifs/rare_items.gif)
