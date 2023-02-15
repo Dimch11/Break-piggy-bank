@@ -1,7 +1,10 @@
 # Break-piggy-bank
 
+Piggy bank opening:
+
 ![opening](/gifs/opening.gif)
 
-1
+
+Picking rare items:
 
 ![rare_items](/gifs/rare_items.gif)
