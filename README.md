@@ -2,7 +2,7 @@
 
 Break piggy bank is my game about breaking piggy banks and collecting items. There are some gifs and sreens:
 
-Piggy bank opening:
+* *Piggy bank opening:
 
 ![opening](/gifs/opening1.gif)
 
